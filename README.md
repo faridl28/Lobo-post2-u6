@@ -28,6 +28,14 @@ Aplicación web Java que implementa el patrón **MVC** para gestionar un inventa
 - ✅ Datos en memoria con DAO singleton (sin base de datos)
 - ✅ Inicio de sesión incorrecto
 - <img width="1187" height="405" alt="image" src="https://github.com/user-attachments/assets/fbbc5f4f-2290-4ffc-8cd7-74253041d87c" />
+- ✅ Inicio de sesión correcto y usuario en el encabezado // en español
+- <img width="1356" height="307" alt="image" src="https://github.com/user-attachments/assets/f3ec04fa-c2c3-4f60-a27e-9fe77f9fd330" />
+- ✅ Inicio de sesión correcto y usuario en el encabezado // en inglés
+- <img width="1365" height="513" alt="image" src="https://github.com/user-attachments/assets/a6e1f632-6d9d-4068-997f-6b87e4d49d9d" />
+- ✅ Cerrar sesión redirige al login
+<img width="1365" height="360" alt="image" src="https://github.com/user-attachments/assets/4a1c2169-74a3-4960-919e-c57daf2df3fc" />
+
+
  
 ---
 
