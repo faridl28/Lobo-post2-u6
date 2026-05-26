@@ -26,6 +26,9 @@ Aplicación web Java que implementa el patrón **MVC** para gestionar un inventa
 - ✅ Mensajes de éxito tras cada operación (POST/Redirect/GET)
 - ![img_4.png](img_4.png)
 - ✅ Datos en memoria con DAO singleton (sin base de datos)
+- ✅ Inicio de sesión incorrecto
+- <img width="1187" height="405" alt="image" src="https://github.com/user-attachments/assets/fbbc5f4f-2290-4ffc-8cd7-74253041d87c" />
+ 
 ---
 
 ## Prerrequisitos
